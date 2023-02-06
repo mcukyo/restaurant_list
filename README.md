@@ -12,11 +12,11 @@
 - 依關鍵字搜尋特定餐廳
 
 ## Prerequisites 環境建置與需求
-- Node.js 14.16.0
-- Express 4.16.4
-- Express handlebars 3.0.0
-- Bootstrap 5.1.3
-- Font-awesome 5.8.1
+Node.js 14.16.0
+Express 4.16.4
+Express handlebars 3.0.0
+Bootstrap 5.1.3
+Font-awesome 5.8.1
 
 ## Installation and execution 安裝與執行
 
